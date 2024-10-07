@@ -6,6 +6,7 @@
 
 ## 📫 Contacts
 
+- Personal Website: https://sethsuk.github.io/
 - LinkedIn: [Seth-Sukboontip](https://www.linkedin.com/in/seth-sukboontip/)
 - Email: sethsuk@seas.upenn.edu
 
