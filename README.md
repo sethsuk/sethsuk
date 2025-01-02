@@ -1,8 +1,9 @@
 ## Seth Sukboontip
 
-- I am a computer science major at the University of Pennsylvania class of 2027 with experience in backend development, databases, and RESTful APIs
+- I am a computer science major at the University of Pennsylvania class of 2027 with experience in machine learning frameworks, backend development, databases, and RESTful APIs
+- I have applied machine learning techniques for tasks ranging from temperature prediction to GPS guesser, showcasing my ability to turn complex datasets into actionable insights
 - I have optimized CI/CD pipelines, enhanced codebase modularity, and tackled real-world challenges in the industry
-- I am pursuing a software engineering internship to further refine my skills!
+- I am pursuing a software engineering internship to refine my skills further!
 
 ## 📫 Contacts
 
