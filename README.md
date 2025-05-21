@@ -1,9 +1,8 @@
 ## Seth Sukboontip
 
-- I am a computer science major at the University of Pennsylvania class of 2027 with experience in machine learning frameworks, backend development, databases, and RESTful APIs
-- I have applied machine learning techniques for tasks ranging from temperature prediction to GPS guesser, showcasing my ability to turn complex datasets into actionable insights
-- I have optimized CI/CD pipelines, enhanced codebase modularity, and tackled real-world challenges in the industry
-- I am pursuing a software engineering internship to refine my skills further!
+- Computer Science student at the University of Pennsylvania (MSE/BSE, Class of 2027), pursuing minors in Data Science and Fine Arts
+- Built scalable full-stack applications using Spring Boot, Node.js, React, PostgreSQL, and AWS, applying advanced machine learning for geolocation prediction and e-commerce customer segmentation
+- Seeking software engineering roles that combine backend systems, ML applications, and product-focused development in high-impact environments
 
 ## 📫 Contacts
 
@@ -17,18 +16,3 @@
 - I was a monk at a Thai temple during a summer in middle school
 
 <small>Kilroy was here</small>
-
-<!--
-**sethsuk/sethsuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
